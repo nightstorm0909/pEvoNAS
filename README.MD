@@ -1,4 +1,4 @@
-# Neural Architecture Search using Progressive Evolution [[arXiv]](https://arxiv.org/abs/2203.01559)
+# Neural Architecture Search using Progressive Evolution [[Paper]](https://dl.acm.org/doi/abs/10.1145/3512290.3528707) [[arXiv]](https://arxiv.org/abs/2203.01559)
 
 **This code is based on the implementation of [DARTS](https://github.com/quark0/darts) and [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects).**
 
@@ -143,3 +143,14 @@ Using CIFAR-10, CIFAR-100, ImageNet16-120:
 ```
 #### Results
 ![NAS201_table](imgs/s2_results.png)
+
+## Reference
+To cite our paper, please use the following:
+```Latex
+@article{sinha2022neural,
+  title={Neural Architecture Search using Progressive Evolution},
+  author={Sinha, Nilotpal and Chen, Kuan-Wen},
+  journal={arXiv preprint arXiv:2203.01559},
+  year={2022}
+}
+```
